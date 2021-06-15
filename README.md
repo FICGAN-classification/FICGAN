@@ -1,2 +1,2 @@
 # FICGAN
-this is a FICGAN model for image identification.
+This is a FICGAN model for image identification.
